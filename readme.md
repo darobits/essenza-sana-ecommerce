@@ -30,8 +30,10 @@ Este proyecto fue desarrollado como práctica de frontend, priorizando la estruc
 - JavaScript
 - Bootstrap
 - LocalStorage
+  
 
 ## Estructura general del proyecto
+
 
 ```txt
 essenza-sana-ecommerce/
@@ -50,6 +52,7 @@ essenza-sana-ecommerce/
 ├── img/
 └── README.md
 
+```
 
 ## Autor
 
