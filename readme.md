@@ -49,3 +49,9 @@ essenza-sana-ecommerce/
 │   └── main.js
 ├── img/
 └── README.md
+
+
+## Autor
+
+Darío Villar
+Analista Programador | Frontend Developer
